@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc --noEmit && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "BryanDev07/oakland-to-the-moon",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "9edc0a7689d4f88fb02b45d1a4c07de24fa07cc6"
+}
